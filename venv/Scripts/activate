@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Users\1094483\Downloads\lyra-back\venv"
+VIRTUAL_ENV="D:\Users\1067668\Documents\GitHub\BackEnd-Lunysse\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

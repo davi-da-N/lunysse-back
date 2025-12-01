@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Users\1094483\Downloads\lyra-back\venv
+set VIRTUAL_ENV=D:\Users\1067668\Documents\GitHub\BackEnd-Lunysse\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
